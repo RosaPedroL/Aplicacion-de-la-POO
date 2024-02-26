@@ -1,0 +1,7 @@
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\bin\Debug\Aplicacion de la POO.exe.config
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\bin\Debug\Aplicacion de la POO.exe
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\bin\Debug\Aplicacion de la POO.pdb
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\obj\Debug\Aplicacion de la POO.csproj.AssemblyReference.cache
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\obj\Debug\Aplicacion de la POO.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\obj\Debug\Aplicacion de la POO.exe
+C:\Users\Rosa Maria\source\repos\Aplicacion de la POO\Aplicacion de la POO\obj\Debug\Aplicacion de la POO.pdb

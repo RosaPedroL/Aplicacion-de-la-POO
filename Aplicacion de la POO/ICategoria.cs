@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aplicacion_de_la_POO
 {
-    interface Categoria
+    interface ICategoria
     {
+        string Nivel { get; set; }
     }
 }

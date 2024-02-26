@@ -10,6 +10,9 @@ namespace Aplicacion_de_la_POO
     {
         static void Main(string[] args)
         {
+            Desarrollador desarrollador1 = new Desarrollador("Fernando", "12/02/23", "qr@gmail.com");
+            desarrollador1.datospersona();
+            Console.ReadLine();//ejecuta la consola- 
         }
     }
 }
